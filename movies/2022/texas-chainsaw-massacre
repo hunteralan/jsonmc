@@ -1,0 +1,19 @@
+{
+  "name": "Texas Chainsaw Massacre",
+  "year": 2022,
+  "runtime": 81,
+  "categories": ["crime", "horror", "thriller"],
+  "release-date": "2022-02-18",
+  "director": ["David Blue Garcia"],
+  "writer": ["Chris Thomas Devlin", "Chris Thomas Devlin"],
+  "actors": [
+    "Sarah Yarkin",
+    "Mark Burnham",
+    "Moe Dunford",
+    "Elsie Fisher",
+    "Jacob Latimore",
+    "Olwen Fouéré",
+    "Moe Dunford"
+  ],
+  "storyline": "After 48 years of hiding, Leatherface returns to terrorize a group of idealistic young friends who accidentally disrupt his carefully shielded world in a remote Texas town."
+}
