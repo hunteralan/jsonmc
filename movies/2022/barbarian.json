@@ -1,0 +1,16 @@
+{
+  "name": "Barbarian",
+  "year": 2022,
+  "runtime": 102,
+  "categories": ["horror", "thriller"],
+  "release-date": "2022-09-09",
+  "director": ["Zach Cregger"],
+  "writer": ["Zach Cregger"],
+  "actors": [
+    "Georgina Campbell",
+    "Bill Skarsgård",
+    "Justin Long",
+    "Matthew Patrick Davis"
+  ],
+  "storyline": "A woman staying at an Airbnb discovers that the house she has rented is not what it seems."
+}
