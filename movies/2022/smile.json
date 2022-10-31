@@ -1,36 +1,31 @@
 {
-    "name": "Smile",
-    "year": 2022,
-    "runtime": 115,
-    "categories": [
-      "horror",
-      "psychological horror"
-    ],
-    "release-date": "2022-09-30",
-    "director": "Parker Finn",
-    "writer": [
-      "Parker Finn"
-    ],
-    "actors": [
-      "Sosie Bacon",
-      "Caitlin Stasey",
-      "Jessie T. Usher",
-      "Kyle Gallner",
-      "Rob Morgan",
-      "Dora Kiss",
-      "Nick Arapoglou",
-      "Gillian Zinser",
-      "Robin Weigert",
-      "Judy Reyes",
-      "Jack Sochet",
-      "Sara Kapner",
-      "Shevy Berkovits Gutierrez",
-      "Vanessa Cozart",
-      "Bob Leszczak",
-      "Perry Strong",
-      "Jared Johnston",
-      "Scot Teller",
-      "Ilene Blackman"
-    ],
-    "storyline": "After witnessing a bizarre, traumatic incident involving a patient, Dr. Rose Cotter starts experiencing frightening occurrences that she can't explain. As an overwhelming terror begins taking over her life, Rose must confront her troubling past in order to survive and escape her horrifying new reality."
-  }
+  "name": "Smile",
+  "year": 2022,
+  "runtime": 115,
+  "categories": ["horror", "psychological horror"],
+  "release-date": "2022-09-30",
+  "director": "Parker Finn",
+  "writer": ["Parker Finn"],
+  "actors": [
+    "Sosie Bacon",
+    "Caitlin Stasey",
+    "Jessie T. Usher",
+    "Kyle Gallner",
+    "Rob Morgan",
+    "Dora Kiss",
+    "Nick Arapoglou",
+    "Gillian Zinser",
+    "Robin Weigert",
+    "Judy Reyes",
+    "Jack Sochet",
+    "Sara Kapner",
+    "Shevy Berkovits Gutierrez",
+    "Vanessa Cozart",
+    "Bob Leszczak",
+    "Perry Strong",
+    "Jared Johnston",
+    "Scot Teller",
+    "Ilene Blackman"
+  ],
+  "storyline": "After witnessing a bizarre, traumatic incident involving a patient, Dr. Rose Cotter starts experiencing frightening occurrences that she can't explain. As an overwhelming terror begins taking over her life, Rose must confront her troubling past in order to survive and escape her horrifying new reality."
+}
